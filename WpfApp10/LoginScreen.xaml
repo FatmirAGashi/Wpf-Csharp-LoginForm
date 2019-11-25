@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApp10.LoginScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp10"
+        mc:Ignorable="d"
+        Title="Login" Height="350" Width="300" FontSize="14">
+    <StackPanel Margin="20">
+        <Label Content="Login" FontSize="25" HorizontalAlignment="Center"/>
+        <Separator></Separator>
+        <Label Content="User Name" FontSize="18"/>
+        <TextBox Name="txtUsername" FontSize="18"/>
+        <Label Content="Password" FontSize="18"/>
+        <PasswordBox Name="txtPassword" FontSize="18"/>
+        <Button Name="btnSubmit" FontSize="18" Margin="60 10" Click="BtnSubmit_Click">Submit</Button>
+
+    </StackPanel>
+</Window>

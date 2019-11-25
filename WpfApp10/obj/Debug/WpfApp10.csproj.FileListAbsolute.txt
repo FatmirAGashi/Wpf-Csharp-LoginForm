@@ -1,0 +1,17 @@
+C:\Users\Genti\source\repos\WpfApp10\WpfApp10\bin\Debug\WpfApp10.exe.config
+C:\Users\Genti\source\repos\WpfApp10\WpfApp10\bin\Debug\WpfApp10.exe
+C:\Users\Genti\source\repos\WpfApp10\WpfApp10\bin\Debug\WpfApp10.pdb
+C:\Users\Genti\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csprojAssemblyReference.cache
+C:\Users\Genti\source\repos\WpfApp10\WpfApp10\obj\Debug\LoginScreen.g.cs
+C:\Users\Genti\source\repos\WpfApp10\WpfApp10\obj\Debug\MainWindow.g.cs
+C:\Users\Genti\source\repos\WpfApp10\WpfApp10\obj\Debug\App.g.cs
+C:\Users\Genti\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.cache
+C:\Users\Genti\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.lref
+C:\Users\Genti\source\repos\WpfApp10\WpfApp10\obj\Debug\LoginScreen.baml
+C:\Users\Genti\source\repos\WpfApp10\WpfApp10\obj\Debug\MainWindow.baml
+C:\Users\Genti\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.g.resources
+C:\Users\Genti\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.Properties.Resources.resources
+C:\Users\Genti\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csproj.GenerateResource.cache
+C:\Users\Genti\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csproj.CoreCompileInputs.cache
+C:\Users\Genti\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.exe
+C:\Users\Genti\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.pdb
